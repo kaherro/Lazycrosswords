@@ -1,0 +1,12 @@
+I:\XAMPP\htdocs\data\66
+10
+ab
+bc
+cd
+de
+ef
+fg
+gh
+hi
+ij
+jk

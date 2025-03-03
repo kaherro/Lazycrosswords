@@ -1,0 +1,372 @@
+body{
+    background: #C1E6FF;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    width: 500;
+}
+/*Страница-вход*/
+.group1 {
+    position: absolute;
+    width: 750px;
+    height: 850px;
+    left: calc(50% - 750px/2 + 498px);
+    top: calc(50% - 850px/2 - 53px);
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 70px;
+}
+
+.q1{
+    position: absolute;
+    width: 93px;
+    height: 47px;
+    left: 321px;
+    top: 131px;
+    
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 47px;
+}
+
+.q2{
+    position: absolute;
+    width: 500px;
+    height: 39px;
+    left: 128px;
+    top: 230px;
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33px;
+    
+    color: #000000;
+}
+
+.q3{
+    box-sizing: border-box;
+    position: absolute;
+    width: 484px;
+    height: 60px;
+    left: 128px;
+    top: 269px;
+
+    font-size:28px;
+    padding-left: 12px;
+    
+    border: 3px solid #DADADA;
+    border-radius: 9px;
+}
+
+.q4{
+    position: absolute;
+    width: 142px;
+    height: 39px;
+    left: 126px;
+    top:375px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 33px;
+    
+    color: #000000;
+}
+
+.q5{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 484px;
+    height: 60px;
+    left: 126px;
+    top: 414px;
+
+    font-size: 28px;
+    padding-left: 12px;
+
+    
+    border: 3px solid #DADADA;
+    border-radius: 9px;
+}
+
+.q6{
+    position: absolute;
+    width: 163px;
+    height: 25px;
+    left: 126px;
+    top: 481px;
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #53BAFF;
+}
+
+.q7{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 342px;
+    height: 60px;
+    left: 197px;
+    top: 526px;
+    
+    background: #C1E6FF;
+    border: 3px solid #DADADA;
+    border-radius: 9px;
+}
+
+.w1{
+    position: absolute;
+    width: 72px;
+    height: 30px;
+    left: 135px;
+    top: 15px;
+    
+    font-style: normal;
+    font-weight: 550;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+
+.q11{
+    position: absolute;
+    width: 72px;
+    height: 30px;
+    left: 50px;
+    top: 15px;
+    
+    font-style: normal;
+    font-weight: 550;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+
+.q8{
+    position: absolute;
+    width: 435px;
+    height: 39px;
+    left: 203px;
+    top: 645px;
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #000000;
+}
+
+.w2{
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    left: 10px;
+    top: 10px;
+     
+}
+
+.group2{
+    position: absolute;
+    width: 750px;
+    height: 74px;
+    left: 0px;
+    top: calc(50% - 74px/2 + 490px);
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 37px;
+}
+.q9{
+    position: absolute;
+    width: 351px;
+    height: 119px;
+    left: 203px;
+    top: 23px;
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #000000;
+}
+
+.q10{
+    position: absolute;
+    width: 195px;
+    height: 29px;
+    left: 384px;
+    top: 23px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #53BAFF;
+}
+
+.picture1{
+    position: absolute;
+    width: 128px;
+    height: 182px;
+    left: calc(50% - 128px/2 + 62px);
+top: calc(50% - 182px/2 + 2px);
+    z-index: 2;
+    
+
+}
+.picture2{
+    position: absolute;
+    width: 145px;
+    height: 101px;
+    left: calc(50% - 145px/2 - 760.5px);
+    top: calc(50% - 101px/2 - 303.5px);
+    z-index: 2;
+}
+.picture3{
+    position: absolute;
+    width: 1067px;
+    height: 142px;
+    left: calc(50% - 1067px/2 - 410.5px);
+    top: calc(50% - 142px/2 - 434px);
+    z-index: 2;
+
+}
+
+.group3{
+box-sizing: border-box;
+position: absolute;
+width: 900px;
+height: 750px;
+left: calc(50% - 900px/2 - 450px);
+top: calc(50% - 750px/2 + 106px);;
+background: #C1E6FF;
+border: 3px solid #000000;
+border-radius: 20px
+}
+
+/*Страница-регистрация*/
+
+.a1{
+position: absolute;
+width: 243px;
+height: 47px;
+left: 253px;
+top: 121px;
+font-style: normal;
+font-weight: 900;
+font-size: 40px;
+line-height: 47px;
+}
+
+.a9{
+    position: absolute;
+    width: 351px;
+    height: 119px;
+    left: 233px;
+    top: 23px;
+    
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #000000;
+}
+
+.a10{
+    position: absolute;
+    width: 195px;
+    height: 29px;
+    left: 407px;
+    top: 23px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    
+    color: #53BAFF;
+}
+
+
+
+
+.error {
+    z-index: 1;
+
+    position: absolute;
+    width: 500px;
+    height: 32px;
+    left: 128px;
+    top: 455px;
+
+
+    font-style: normal;
+    color:rgb(255, 0, 0);
+    font-weight: 550;
+    font-size: 18px;
+    line-height: 28px;
+
+
+ }
+ .success {
+    z-index: 1;
+
+    position: absolute;
+    width: 500px;
+    height: 32px;
+    left: 128px;
+    top: 455px;
+
+
+    font-style: normal;
+    color:rgb(0, 224, 11);
+    font-weight: 550;
+    font-size: 18px;
+    line-height: 28px;
+ }
+
+
+
+ @media screen and (max-width: 980px) {
+    .picture1{
+        width: 0px;
+        height: 0px;
+    }
+    .picture2{
+        width: 0px;
+        height: 0px;
+    }
+    .picture3{
+        width: 750px;
+        height: 100px;
+        left: calc(50% - 750px/2);
+        top: calc(50% - 1100px/2 - 34px);
+    }
+    .group3{
+        width: 0px;
+        height: 0px;
+    }
+    .group1 {
+        left: calc(50% - 750px/2);
+        top: calc(50% - 850px/2 - 34px);
+        width: 750px;
+        height: 750px;
+    }
+    .group2{
+        top: calc(50% - 74px/2 + 440px);
+    }
+ 
+ }

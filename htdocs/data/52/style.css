@@ -1,0 +1,186 @@
+textarea{font-size:2px;padding-left: 12px;}body{    background: #C1E6FF;    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    font-style: normal;}.crossname{    position: absolute;    width: 305px;    height: 38px;    left: 59px;    top: 57px;    font-weight: 500;    font-size: 28px;    line-height: 33px;}.inputname{ font-size:28px;padding-left: 12px;   box-sizing: border-box;    position: absolute;    width: 32.8%;    height: 60px;    left: 59px;    top: 95px;    background: #FFFFFF;    border: 3px solid #DADADA;    border-radius: 9px;}.inputsize{  font-size:28px;padding-left: 12px;  box-sizing: border-box;    position: absolute;    width: 90px;    height: 60px;    left: 295px;    top: 273px;    background: #FFFFFF;    border: 3px solid #DADADA;    border-radius: 9px;}.size{    position: absolute;    width: 500px;    height: 48px;    left: 59px;    top: 275px;    font-weight: 500;    font-size: 28px;    line-height: 33px;}.trys{    position: absolute;    width: 492px;    height: 48px;    left: 59px;    top: 196px;    font-weight: 500;    font-size: 28px;    line-height: 33px;}.inputtrys{  font-size:28px;padding-left: 12px;  box-sizing: border-box;    position: absolute;    width: 90px;    height: 60px;    left: 551px;    top: 184px;    background: #FFFFFF;    border: 3px solid #DADADA;    border-radius: 9px;}.save{    box-sizing: border-box;    position: absolute;    width: 630px;    height: 60px;    left: 59px;    top: 890px;    background: #FFFFFF;    border: 3px solid #DADADA;    border-radius: 9px;    font-weight: 500;    font-size: 28px;    line-height: 33px;    background: #C1E6FF;    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    font-style: normal;}.words{    position: absolute;    width: 100px;    height: 38px;    left: 59px;    top: 338px;    font-weight: 500;    font-size: 28px;    line-height: 33px;}.inputwords{  font-size:28px;padding-left: 12px;  box-sizing: border-box;    position: absolute;    width: 630px;       height: 500px;    left: 59px;    top: 376px;    background: #FFFFFF;    border: 3px solid #DADADA;    border-radius: 9px;}.username{    position: absolute;    /*width: 163px;    height: 25px;*/    left: 95.3%;    top: 0px;    font-weight: 500;    font-size: 28px;}.logout{    position: absolute;    /*width: 163px;    height: 25px;*/    right: 10px;    top: 30px;    font-weight: 500;    font-size: 28px;    line-height: 33px;}.group1{    position: absolute;    width: 672px;    height: 934px;    left: 38px;    top: 35px;    background: #FFFFFF;    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);    border-radius: 44px;} .resaults{    /*position: absolute;    top: 150px;*/    width: 300px;     background-color: white;    font-style: normal;    font-weight: 500;    padding-left: 12px;    font-size: 20px;    line-height: 33px;}.submitbtn{    box-sizing: border-box;    position: absolute;    width: 230px;    height: 60px;    left: 350px;    border: 3px solid #DADADA;    border-radius: 9px;    font-weight: 500;    font-size: 28px;    line-height: 33px;    background: white;    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    font-style: normal;}.nomore{    position: absolute;    width: 430px;    top: 90px;    left: 350px;    font-weight: 500;    font-size: 18px;    line-height: 33px;    color: red;    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    font-style: normal;}.curres{    position: absolute;    width: 430px;    top: 90px;    left: 350px;    font-weight: 500;    font-size: 18px;    line-height: 33px;    color: #00cc0a;    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    font-style: normal;    }.stats{    font-weight: 500;    font-size: 28px;    line-height: 33px;    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    font-style: normal;  } .questions{    font-style: normal;    font-weight: 550;    font-size: 28px;    line-height: 28px;}.question{    background: white;    width: 315px;    font-style: normal;    font-weight: 550;    font-size: 20px;    line-height: 28px;}.namee {position: absolute;width: 700px;height: 38px;left: 0px;top: 0px;font-style: normal;font-weight: 500;font-size: 26px;line-height: 33px;}.picture{position: absolute;width: 288px;height: 38px;right: 0px;top: 0px;}.trys-left{position: absolute;width: 996px;height: 38px;left: 350px;top: -5px;font-style: normal;font-weight: 500;font-size: 20px;line-height: 33px;}
+.field12{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1278px;top: 80px;}
+.num1{position: absolute;font-size: 12px;left: 1299px;top: 80px;z-index: 10;}
+.field37{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1134px;top: 126px;}
+.num2{position: absolute;font-size: 12px;left: 1136px;top: 142px;z-index: 10;}
+.field38{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1182px;top: 126px;}
+.field39{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1230px;top: 126px;}
+.field40{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1278px;top: 126px;}
+.field41{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1326px;top: 126px;}
+.field68{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1278px;top: 172px;}
+.field91{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1038px;top: 218px;}
+.num3{position: absolute;font-size: 12px;left: 1059px;top: 218px;z-index: 10;}
+.field96{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1278px;top: 218px;}
+.field118{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 990px;top: 264px;}
+.num4{position: absolute;font-size: 12px;left: 992px;top: 280px;z-index: 10;}
+.field119{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1038px;top: 264px;}
+.field120{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1086px;top: 264px;}
+.field121{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1134px;top: 264px;}
+.field122{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1182px;top: 264px;}
+.num5{position: absolute;font-size: 12px;left: 1203px;top: 264px;z-index: 10;}
+.field123{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1230px;top: 264px;}
+.field124{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1278px;top: 264px;}
+.field125{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1326px;top: 264px;}
+.field126{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1374px;top: 264px;}
+.field147{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1038px;top: 310px;}
+.field150{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1182px;top: 310px;}
+.field152{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1278px;top: 310px;}
+.field175{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1038px;top: 356px;}
+.field178{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1182px;top: 356px;}
+.field180{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1278px;top: 356px;}
+.field203{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1038px;top: 402px;}
+.field206{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1182px;top: 402px;}
+.field229{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 942px;top: 448px;}
+.num6{position: absolute;font-size: 12px;left: 944px;top: 464px;z-index: 10;}
+.num7{position: absolute;font-size: 12px;left: 963px;top: 448px;z-index: 10;}
+.field230{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 990px;top: 448px;}
+.field231{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1038px;top: 448px;}
+.field232{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1086px;top: 448px;}
+.field234{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1182px;top: 448px;}
+.field257{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 942px;top: 494px;}
+.field282{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 798px;top: 540px;}
+.num8{position: absolute;font-size: 12px;left: 800px;top: 556px;z-index: 10;}
+.field283{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 846px;top: 540px;}
+.field284{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 894px;top: 540px;}
+.field285{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 942px;top: 540px;}
+.field286{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 990px;top: 540px;}
+.field287{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1038px;top: 540px;}
+.field288{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1086px;top: 540px;}
+.field289{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1134px;top: 540px;}
+.field290{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1182px;top: 540px;}
+.field309{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 750px;top: 586px;}
+.num9{position: absolute;font-size: 12px;left: 771px;top: 586px;z-index: 10;}
+.field313{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 942px;top: 586px;}
+.field337{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 750px;top: 632px;}
+.num10{position: absolute;font-size: 12px;left: 752px;top: 648px;z-index: 10;}
+.field338{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 798px;top: 632px;}
+.field339{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 846px;top: 632px;}
+.field340{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 894px;top: 632px;}
+.field341{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 942px;top: 632px;}
+.field342{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 990px;top: 632px;}
+.field343{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1038px;top: 632px;}
+.field348{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1278px;top: 632px;}
+.num11{position: absolute;font-size: 12px;left: 1299px;top: 632px;z-index: 10;}
+.field365{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 750px;top: 678px;}
+.field372{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1086px;top: 678px;}
+.num12{position: absolute;font-size: 12px;left: 1088px;top: 694px;z-index: 10;}
+.num13{position: absolute;font-size: 12px;left: 1107px;top: 678px;z-index: 10;}
+.field373{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1134px;top: 678px;}
+.field374{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1182px;top: 678px;}
+.field375{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1230px;top: 678px;}
+.field376{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1278px;top: 678px;}
+.field377{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1326px;top: 678px;}
+.field393{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 750px;top: 724px;}
+.field397{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 942px;top: 724px;}
+.num14{position: absolute;font-size: 12px;left: 963px;top: 724px;z-index: 10;}
+.field400{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1086px;top: 724px;}
+.field404{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1278px;top: 724px;}
+.field421{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 750px;top: 770px;}
+.num15{position: absolute;font-size: 12px;left: 752px;top: 786px;z-index: 10;}
+.field422{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 798px;top: 770px;}
+.field423{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 846px;top: 770px;}
+.num16{position: absolute;font-size: 12px;left: 867px;top: 770px;z-index: 10;}
+.field424{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 894px;top: 770px;}
+.field425{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 942px;top: 770px;}
+.field426{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 990px;top: 770px;}
+.field427{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1038px;top: 770px;}
+.field428{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1086px;top: 770px;}
+.field429{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1134px;top: 770px;}
+.field432{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1278px;top: 770px;}
+.field449{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 750px;top: 816px;}
+.field451{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 846px;top: 816px;}
+.field453{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 942px;top: 816px;}
+.field456{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1086px;top: 816px;}
+.field460{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1278px;top: 816px;}
+.field477{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 750px;top: 862px;}
+.field479{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 846px;top: 862px;}
+.field481{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 942px;top: 862px;}
+.field484{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1086px;top: 862px;}
+.field507{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 846px;top: 908px;}
+.field509{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 942px;top: 908px;}
+.field512{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1086px;top: 908px;}
+.field517{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1326px;top: 908px;}
+.num17{position: absolute;font-size: 12px;left: 1347px;top: 908px;z-index: 10;}
+.field535{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 846px;top: 954px;}
+.field537{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 942px;top: 954px;}
+.field539{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1038px;top: 954px;}
+.num18{position: absolute;font-size: 12px;left: 1040px;top: 970px;z-index: 10;}
+.field540{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1086px;top: 954px;}
+.field541{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1134px;top: 954px;}
+.field542{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1182px;top: 954px;}
+.field543{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1230px;top: 954px;}
+.field544{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1278px;top: 954px;}
+.field545{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1326px;top: 954px;}
+.field546{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1374px;top: 954px;}
+.field563{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 846px;top: 1000px;}
+.field565{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 942px;top: 1000px;}
+.field568{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1086px;top: 1000px;}
+.field573{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1326px;top: 1000px;}
+.field591{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 846px;top: 1046px;}
+.field596{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1086px;top: 1046px;}
+.field601{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1326px;top: 1046px;}
+.field619{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 846px;top: 1092px;}
+.field623{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1038px;top: 1092px;}
+.num19{position: absolute;font-size: 12px;left: 1040px;top: 1108px;z-index: 10;}
+.field624{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1086px;top: 1092px;}
+.field625{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1134px;top: 1092px;}
+.field626{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1182px;top: 1092px;}
+.field627{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1230px;top: 1092px;}
+.field628{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1278px;top: 1092px;}
+.field629{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1326px;top: 1092px;}
+.field630{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1374px;top: 1092px;}
+.field631{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1422px;top: 1092px;}
+.field632{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1470px;top: 1092px;}
+.field633{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1518px;top: 1092px;}
+.num20{position: absolute;font-size: 12px;left: 1539px;top: 1092px;z-index: 10;}
+.field635{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1614px;top: 1092px;}
+.num21{position: absolute;font-size: 12px;left: 1635px;top: 1092px;z-index: 10;}
+.field647{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 846px;top: 1138px;}
+.field661{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1518px;top: 1138px;}
+.field663{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1614px;top: 1138px;}
+.field684{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1278px;top: 1184px;}
+.num22{position: absolute;font-size: 12px;left: 1280px;top: 1200px;z-index: 10;}
+.field685{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1326px;top: 1184px;}
+.field686{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1374px;top: 1184px;}
+.field687{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1422px;top: 1184px;}
+.field688{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1470px;top: 1184px;}
+.field689{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1518px;top: 1184px;}
+.field690{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1566px;top: 1184px;}
+.field691{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1614px;top: 1184px;}
+.field692{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1662px;top: 1184px;}
+.field693{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1710px;top: 1184px;}
+.field717{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1518px;top: 1230px;}
+.field719{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1614px;top: 1230px;}
+.field747{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1614px;top: 1276px;}
+.field775{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1614px;top: 1322px;}
+.field784{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 2046px;top: 1322px;}
+.num23{position: absolute;font-size: 12px;left: 2067px;top: 1322px;z-index: 10;}
+.field803{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1614px;top: 1368px;}
+.field806{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1758px;top: 1368px;}
+.num24{position: absolute;font-size: 12px;left: 1779px;top: 1368px;z-index: 10;}
+.field812{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 2046px;top: 1368px;}
+.field829{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1518px;top: 1414px;}
+.num25{position: absolute;font-size: 12px;left: 1520px;top: 1430px;z-index: 10;}
+.field830{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1566px;top: 1414px;}
+.field831{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1614px;top: 1414px;}
+.field832{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1662px;top: 1414px;}
+.field833{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1710px;top: 1414px;}
+.field834{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1758px;top: 1414px;}
+.field835{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1806px;top: 1414px;}
+.field836{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1854px;top: 1414px;}
+.field837{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1902px;top: 1414px;}
+.field838{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1950px;top: 1414px;}
+.field839{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1998px;top: 1414px;}
+.field840{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 2046px;top: 1414px;}
+.field862{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1758px;top: 1460px;}
+.field868{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 2046px;top: 1460px;}
+.field890{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1758px;top: 1506px;}
+.field896{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 2046px;top: 1506px;}
+.field918{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1758px;top: 1552px;}
+.field924{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 2046px;top: 1552px;}
+.field946{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1758px;top: 1598px;}
+.field952{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 2046px;top: 1598px;}
+.field974{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1758px;top: 1644px;}
+.field1002{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1758px;top: 1690px;}
+.field1030{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1758px;top: 1736px;}
+.field1058{background: #ffffff;width: 40px;height: 40px;font-size: 20px;text-align:center;border: 2px solid #DADADA;position: absolute;left: 1758px;top: 1782px;}
